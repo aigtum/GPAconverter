@@ -1,0 +1,15 @@
+{
+  "name": "gpaconverter",
+  "version": "1.0.0",
+  "description": "Converts char grades into GPA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aig",
+  "license": "ISC",
+  "dependencies": {
+    "@typopro/web-titillium": "^3.4.9",
+    "jquery": "^3.2.1"
+  }
+}
